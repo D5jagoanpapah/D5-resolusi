@@ -1,2 +1,3 @@
 Delimanis
 -fokus dengan php,js,laravel,html,css
+-punya plan membuat web untuk cafe
